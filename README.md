@@ -1,16 +1,13 @@
-# Portfolio one page template 
+# Portfolio
 
-Flat and responsive website template, designed and coded by [Saad Fahmi](https://github.com/saadfahmi).
+Flat and responsive website template, designed by [Saad Fahmi](https://github.com/saadfahmi).
 
 Demo: [https://saadfahmi.github.io/portfolio](https://saadfahmi.github.io/portfolio/)
 
 
+**Technologies Used in This Portfolio:**
+    1.HTML
 
-## Contents
+    2.CSS
 
--HOME
--ABOUT
--RESUME
--PORTFOLIO
--SERVICES
--CONTACT
+    3.JavaScript.
