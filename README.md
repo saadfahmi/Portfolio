@@ -1,8 +1,8 @@
 # Portfolio one page template 
 
-Flat and responsive website template, designed and coded by [oussama-seme-elayne](https://github.com/oussama-seme-elayne).
+Flat and responsive website template, designed and coded by [Saad Fahmi](https://github.com/saadfahmi).
 
-Demo: [https://oussama-seme-elayne.github.io/portfolio/](https://oussama-seme-elayne.github.io/portfolio/)
+Demo: [https://saadfahmi.github.io/portfolio](https://saadfahmi.github.io/portfolio/)
 
 
 
