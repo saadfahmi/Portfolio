@@ -2,6 +2,7 @@
 
 Welcome to my interactive terminal-based web portfolio! 🚀  
 This project is a creative and engaging way to showcase my skills, projects, and personality using a web-based terminal interface.
+[Saad Fahmi's Portfolio](https://saadfahmi.github.io/portfolio/)
 
 ## Features
 - **Interactive Terminal Interface**: Mimics a Linux terminal for a unique and nostalgic user experience.
